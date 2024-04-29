@@ -15,3 +15,5 @@ Separate values with a space and calculate Disability rating, that simple. It do
   - Multiply this remaining percentage by the next highest disability percentage.
   - Add the result to the previous disability rating to get the new combined disability rating.
 4. Final Step: Continue this process down the list of disabilities. The final result is subtracted from 100% to find the total disability rating.
+
+NOTE: Actual percentage is different from awarded percentage. For example if your actual percentage is 55% you will be awarded 60% but if it is 54% you will be awarded 50%. The VA rounds towards the nearest 10th.
