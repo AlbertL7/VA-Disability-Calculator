@@ -1,4 +1,4 @@
-## 🇺🇸 VA Disability Calculator (Corrected Bilateral Logic)
+## US VA Disability Calculator
 
 Very simple and easy-to-use VA disability calculator for veterans, VSOs, and anyone wanting accurate combined disability ratings. Built to follow 38 CFR § 4.25 and § 4.26 as precisely as possible.
 
