@@ -1,3 +1,11 @@
+'''
+References for Creation of Application
+    https://www.va.gov/disability/about-disability-ratings/
+    https://www.va.gov/vetapp20/Files3/20021766.txt
+    http://va.gov/vetapp20/Files1/20002468.txt
+    https://www.ecfr.gov/current/title-38/chapter-I/part-4/subpart-A/section-4.25
+    https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000180525/M21-1-Part-V-Subpart-iv-Chapter-1-Section-C-Coded-Conclusion#4b
+'''
 import tkinter as tk
 from tkinter import messagebox
 from typing import List, Dict, Optional, Any
