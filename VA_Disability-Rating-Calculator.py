@@ -501,7 +501,7 @@ class VADisabilityCalculatorApp:
             combined_no_bilateral = corrected_va_disability_precise(ratings_without_any_bilateral_factor)
             award_no_bilateral = round_to_va_award(combined_no_bilateral)
             if award_bva != award_no_bilateral or award_table_method != award_no_bilateral : 
-                result_text += "\n\n--- For Comparison (Original Ratings, No Bilateral Factor Applied) ---\n"
+                result_text += "\n\nSee Current Rates: https://www.va.gov/disability/compensation-rates/veteran-rates/\n\n***For Comparison (Original Ratings, No Bilateral Factor Applied)***\n"
                 result_text += f"Final Award Would Be:\n\t {award_no_bilateral}%\n"
         
         self.last_result_text = result_text
